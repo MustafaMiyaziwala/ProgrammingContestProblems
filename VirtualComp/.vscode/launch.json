@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Quarantine",
+            "request": "launch",
+            "mainClass": "Quarantine",
+            "projectName": "VirtualComp_81fb2311"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Wilderness",
+            "request": "launch",
+            "mainClass": "Wilderness",
+            "projectName": "VirtualComp_81fb2311"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ScaredSkiing",
+            "request": "launch",
+            "mainClass": "ScaredSkiing",
+            "projectName": "VirtualComp_81fb2311"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Antivirus",
+            "request": "launch",
+            "mainClass": "Antivirus",
+            "projectName": "VirtualComp_81fb2311"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
